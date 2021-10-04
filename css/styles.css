@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.gradient {
+    background: rgb(75,79,161);
+    background: linear-gradient(90deg, rgba(75,79,161,1) 0%, rgba(242,66,40,1) 50%, rgba(239,101,60,1) 100%); 
+}
+
+.page-header {
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: white;
+}
+
+.feature {
+    color: white;
+}
+
+.icon {
+
+    color: white;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+}
