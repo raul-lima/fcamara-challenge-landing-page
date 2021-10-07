@@ -15,6 +15,10 @@ html, body {
     color: white;
 }
 
+.sangue-laranja {
+    color:  #FFC300 ;
+}
+
 .feature {
     color: white;
 }
@@ -32,6 +36,20 @@ html, body {
 
 }
 
-.services {
+.gray-background {
+    background: #f3f4f9;
+}
+
+.orange-background {
+    background: #ef653c;
+}
+
+.white-font {
     color: white;
 }
+
+#violet-font {
+    color: #4b4fa1;
+    font-weight: bold;
+}
+
