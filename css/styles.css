@@ -57,3 +57,40 @@ html, body {
     font-weight: bold;
 }
 
+#form-container a {
+    color: #4b4fa1;
+    transition: .5s;
+}
+
+#form-container a:hover {
+    color: #ef653c;
+}
+
+#form-container .form-control:focus,
+#form-container .form-select:focus {
+    box-shadow: none;
+}
+
+#form-container input[type="submit"],
+#form-container input[type="checkbox"]:checked {
+    background-color: #4b4fa1;
+    border-color: #4b4fa1;
+}
+
+
+.btn.btn-primary {
+    width: 100%;
+    margin-top: 25px;
+}
+
+.btn.btn-primary:hover {
+
+    color: #ef653c;
+}
+
+@media(min-width: 768px) {
+    .btn.btn-primary {
+        width: auto;
+    }
+}
+
