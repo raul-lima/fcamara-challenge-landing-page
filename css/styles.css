@@ -136,7 +136,7 @@ footer {
 #contact-form input[type="email"],
 #contact-form textarea {
     margin-bottom: 15px;
-    border-radius: 0;
+
 }
 
 #contact-form input[type="submit"] {
