@@ -46,6 +46,7 @@ The following technologies were used to develop this project:
 
 * HTML
 * CSS
+* JavaScript
 * Bootstrap 5
 
 ## Contact
