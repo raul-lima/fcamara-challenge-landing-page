@@ -94,3 +94,85 @@ html, body {
     }
 }
 
+/* Footer */
+
+footer {
+    background-color: #303033;
+    color: white;
+}
+
+#contact-area {
+    text-align: center;
+}
+
+.contact-box {
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #ef653c;
+}
+
+.contact-box i {
+    color: #ef653c;
+    font-size: 24px;
+
+}
+
+.contact-box p {
+    font-size: 16px;
+}
+
+.contact-title {
+    font-weight: bold;
+    color: #ef653c;
+
+}
+
+
+#msg-box p {
+    font-size: 22px;
+}
+
+#contact-form input[type="text"],
+#contact-form input[type="email"],
+#contact-form textarea {
+    margin-bottom: 15px;
+    border-radius: 0;
+}
+
+#contact-form input[type="submit"] {
+    background-color: #4b4fa1;
+    border-color: #4b4fa1;
+    margin-bottom: 25px;
+}
+
+/* Copy */
+
+#copy-area {
+
+    color: black;
+    background-color: #f3f4f9;
+
+}
+
+#copy-area .container {
+
+    padding: 10px 0;
+    text-align: center;
+}
+
+#copy-area .container p {
+    margin-bottom: 0;
+}
+
+
+#copy-area a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #4b4fa1;
+    transition: .5s;
+}
+
+#copy-area a:hover{
+    color: #ef653c;
+
+}
