@@ -16,6 +16,9 @@ Table of contents
 =================
   * [About](#about)
   * [Github Page](#github-page)
+  * [Preview](#preview)
+    * [Desktop](#desktop)
+    * [Mobile](#mobile)
   * [Technologies](#technologies)
   * [Contact](#contact)
 
@@ -39,6 +42,25 @@ These are the informations the company wanted to give its employees through the 
 ## Github Page
 
 The page is hosted on github pages and you can check it out [here](https://raul-lima.github.io/fcamara-challenge-landing-page/).
+
+## Preview 
+  
+  (watch in fullscreen for better resolution)
+  
+  ### Desktop
+  
+
+https://user-images.githubusercontent.com/79487007/138174164-275d307c-f46a-4fe1-b7b9-89eaceda36a9.mp4
+
+  
+  
+  ### Mobile
+  
+
+
+https://user-images.githubusercontent.com/79487007/138174217-3a6d7d25-d0ab-43b0-93a1-439a1a34b062.mp4
+
+
 
 
 ## Technologies
