@@ -28,7 +28,7 @@ Table of contents
 This project is a landing page designed and developed to inform a company's (Fcamara) employees about the return to the presential work stations. It was designed with a mobile first design, so it's completely responsive.
 These are the informations the company wanted to give its employees through the landing page:
 
-* There are two offices to choose from: one located at São Paulo and another at Santos.
+* There are two offices to choose from: one located in São Paulo and another in Santos.
 * The offices stay open from 8am to 6pm.
 * The offices are gonna be limited to 40% of the employees, according to legislation.
 * The page needs to let the employees choose the office, the working station by number and the day they're gonna go back to presential work.
