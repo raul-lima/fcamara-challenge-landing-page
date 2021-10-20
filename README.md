@@ -25,7 +25,7 @@ Table of contents
 
 ## About
 
-This project is a landing page designed and developed to inform a company's (Fcamara) employees about the return to the presential work stations. It was designed with a mobile first design, so it's completely responsive.
+This project is a landing page designed and developed to inform a company's (Fcamara) employees about the return to the presential work stations. The page follows a mobile first design, so it's completely responsive.
 These are the informations the company wanted to give its employees through the landing page:
 
 * There are two offices to choose from: one located in São Paulo and another in Santos.
